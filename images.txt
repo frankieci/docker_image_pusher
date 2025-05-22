@@ -23,3 +23,6 @@ docker.io/bitnami/mongodb-sharded:8.0.9-debian-12-r0
 docker.io/bitnami/mongodb-exporter:0.44.0-debian-12-r4
 apache/rocketmq:5.3.2
 apacherocketmq/rocketmq-dashboard:1.0.0
+docker.io/bitnami/apisix:3.12.0-debian-12-r3
+docker.io/bitnami/apisix-dashboard:3.0.1-debian-12-r71
+docker.io/bitnami/apisix-ingress-controller:1.8.4-debian-12-r5
