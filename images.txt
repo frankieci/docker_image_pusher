@@ -26,3 +26,4 @@ apacherocketmq/rocketmq-dashboard:1.0.0
 docker.io/bitnami/apisix:3.12.0-debian-12-r3
 docker.io/bitnami/apisix-dashboard:3.0.1-debian-12-r71
 docker.io/bitnami/apisix-ingress-controller:1.8.4-debian-12-r5
+docker.io/bitnami/etcd:3.5.21-debian-12-r4
